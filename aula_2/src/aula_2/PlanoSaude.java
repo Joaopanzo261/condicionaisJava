@@ -10,7 +10,7 @@ public class PlanoSaude {
 		
 		int idade;
 		
-		System.out.println("Digite a sua idade :");
+		System.out.println("Digite a sua idade:");
 		idade = leia.nextInt();
 		
 		if (idade >=0 && idade<=10)
