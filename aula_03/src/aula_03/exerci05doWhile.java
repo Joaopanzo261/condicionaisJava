@@ -16,7 +16,7 @@ public class exerci05doWhile {
 			numero = leia.nextInt();
 		    
 			
-			Soma += numero;
+			soma += numero;
 			
 		} while (numero > 0 || numero < 0);
 		System.out.println("A soma de todos números é: " + soma);

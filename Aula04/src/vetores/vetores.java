@@ -35,7 +35,6 @@ Arrays.sort(vetorFloat, Collections.revereOrder());
 		for ( float numero : vetorFloat)
 			System.out.println(numero);
 			
-			leia.close();
 			
 			leia.close();
 	}
